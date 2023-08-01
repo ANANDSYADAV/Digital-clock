@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #6b6bf5;
+}
+
+div {
+  margin-top: 15px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 100px;
+  color: pink;
+}
+
+.secondh {
+  text-align: center;
+  font-size: 60px;
+  color: aqua;
+}
+
+
+#date {
+  text-align: center;
+  font-size: 70px;
+  color: white;
+}
+
+span {
+  margin: auto;
+  background-color: darkblue;
+  border: 1px solid white;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+#box1,
+#box2 {
+  width: 80vw;
+  margin: 10px;
+  margin-left: 8%;
+  padding: 15px;
+  border: 2px white solid;
+  border-radius: 10px;
+  border-width: 70%;
+}
+
+#box2 {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
